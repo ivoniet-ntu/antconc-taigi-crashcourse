@@ -19,7 +19,7 @@ and AntConc using Taiwanese Hokkien data.
 
 ## Before the session
 
-1. Download AntConc from [laurenceanthony.net/software/antconc](https://www.laurenceanthony.net/software/antconc/) — choose the version for your operating system
+1. Download AntConc from [laurenceanthony.net/software/antconc](https://www.laurenceanthony.net/software/antconc/) Choose the version for your operating system
 2. Download `kong_seg.txt` and `sue_seg.txt` from this repository
 3. Download the visual guide and follow the instructions to load the files
 
