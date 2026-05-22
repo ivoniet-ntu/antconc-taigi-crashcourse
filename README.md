@@ -14,7 +14,7 @@ and AntConc using Taiwanese Hokkien data.
 | `kong_seg.txt` | 200 segmented sentences containing 講 (kóng) |
 | `sue_seg.txt` | 200 segmented sentences containing 說 (sueh) |
 | `antconc_visual_guide.pdf` | Step-by-step guide to loading the corpora in AntConc |
-| `intdoduction_to_antconc.pdf` | Slides from the May 2026 session |
+| `introduction_to_antconc.pdf` | Slides from the May 2026 session |
 
 ---
 
